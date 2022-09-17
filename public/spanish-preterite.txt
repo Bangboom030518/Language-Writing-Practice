@@ -1,0 +1,24 @@
+I spoke - Hablé
+You spoke - Hablaste
+He/She/It spoke - Habló
+We spoke - Hablamos
+You (pl) spoke - Hablasteis
+They spoke - Hablaron
+I ate - Comí
+You ate - Comiste
+He/She/It ate - Comió
+We ate - Comimos
+You (pl) ate - Comisteis
+They ate - Comieron
+I lived - Viví
+You lived - Viviste
+He/She/It lived - Vivió
+We lived - Vivimos
+You (pl) lived - Vivisteis
+They lived - Vivieron
+I went - fui
+You went - fuiste
+He/She/It went - fue
+We went - fuimos
+You (pl) went - fuisteis
+They went - fueron

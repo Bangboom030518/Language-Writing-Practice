@@ -1,0 +1,59 @@
+a bit - un poco
+very/a lot - muy/mucho
+quite - bastante
+too/too much - demasiado
+somewhat - algo
+every day - todos los días
+always - siempre
+never - nunca
+sometimes - a veces
+constantly - constantemente
+nonetheless - a pesar de todo
+however - sin embargo
+because of that - por eso
+thanks to - gracias a
+for example - por ejemplo
+more/less than - más/menos que
+better/worse than - mejor/peor que
+the most/least - el más/el menos
+the best/worst - el mejor/peor
+what I like the most/least - lo que más/menos me gusta
+firstly - primero
+then - luego
+then - entonces
+afterwards - después
+finally - finalmente
+When - cuándo
+What - qué
+Where - dónde
+Which - cuál
+How - cómo
+Why - por qué
+Who - quién
+I am (permanent state) - soy
+I am (temporary state) - estoy
+I have - tengo
+I go - voy
+I do - hago
+I play - juego
+I visit - visito
+she/he/it has - tiene
+she/he/it does/makes - hace
+Is (location) - está
+we visit/visited - visitamos
+we have/had a good time - lo pasamos bien
+I want to - quiero
+I have to - tengo que
+I can - puedo
+I used to - solía
+I prefer - prefiero
+I went - fui
+I was - fui
+I had - tuve
+I did/made - hice
+I visited - visité
+I'm going to go - voy a ir
+I'm going to be - voy a ser
+I'm going to have - voy a tener
+I'm going to do - voy a hacer
+I'm going to visit - voy a visitar
