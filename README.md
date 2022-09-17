@@ -1,4 +1,4 @@
-Hi! You've stumbled across this little project I wrote to help with french/spanish writing revison, because I was getting annoyed by how lax quizlet was with spanish. It's written with svelte and bootstrap even though I disapprove of all javascript frameworks and know bootstrap sends loads of redundant css. I did this because I wanted to do it quickly. This is by no means a production application, but is still useful.
+Hi! You've stumbled across this little project I wrote to help with french/spanish writing revison, because I was getting annoyed by how lax quizlet was with spanish spelling. It's written with svelte and bootstrap even though I disapprove of all javascript frameworks and know bootstrap sends loads of redundant css. I did this because I wanted to do it quickly. This is by no means a production application, but is still useful.
 ---
 
 # svelte app
