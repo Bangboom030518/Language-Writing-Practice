@@ -1,5 +1,4 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or  if you want a full-fledged app framework and don't mind using pre-1.0 software  use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
-
+Hi! You've stumbled across this little project I wrote to help with french/spanish writing revison, because I was getting annoyed by how lax quizlet was with spanish. It's written with svelte and bootstrap even though I disapprove of all javascript frameworks and know bootstrap sends loads of redundant css. I did this because I wanted to do it quickly. This is by no means a production application, but is still useful.
 ---
 
 # svelte app
