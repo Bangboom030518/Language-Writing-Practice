@@ -1,0 +1,20 @@
+art - El dibujo
+chemistry - La química
+languages - Los idiomas
+business studies  - El comercio
+Sport  - El deporte
+I love  - Me chifla
+I prefer  - Prefiero
+subject  - La asignatura
+It is better than  - Es mejor que
+It is worse than  - Es peor que
+a dress - Un vestido
+a shirt  - Una camisa
+a tie  - Una corbata
+a skirt  - Una falda
+trousers  - Unos pantalones
+socks - Unos calcetines
+shoes - Unos zapatos
+jeans - Unos vaqueros
+It is comfortable/ uncomfortable - Es cómodo / incómodo
+The uniform is old fashioned - El uniforme es anticuado

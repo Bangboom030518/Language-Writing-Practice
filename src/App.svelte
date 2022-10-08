@@ -8,7 +8,7 @@
   let wordlist: Word[] = JSON.parse(localStorage.getItem("wordlist") ?? "[]");
   let data: Data;
   (async () => {
-    data = Object.freeze(await getData("french-module-1-vocab-2.txt"));
+    data = Object.freeze(await getData("french-module-1-vocab-3.txt"));
   })();
 
   $: localStorage.setItem("wordlist", JSON.stringify(wordlist));

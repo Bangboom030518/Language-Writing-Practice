@@ -1,6 +1,6 @@
 const { readFileSync, writeFileSync } = require("fs");
 
-const file = "public/french-module-1-vocab-2.txt"
+const file = "public/spanish-module-1-vocab-1.txt"
 
 const content = readFileSync(file, "utf-8");
 
